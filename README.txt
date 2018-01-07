@@ -9,6 +9,10 @@ This repo is divided into two folders:
 - Code: Contains all project-specific C++ code used in the robot.
 - Report: Contains my group's final report.
 
+DEPENDENCIES
+
+This project utilized some of my general purpose Arduino libraries found at <https://github.com/doates625/ArduinoLibs>.
+
 NOTE
 
 This project was not originally developed on Github. It was migrated to github for organization, backup, and ease of access by anyone interested in knowing more about the project.
