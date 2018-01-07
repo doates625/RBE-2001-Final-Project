@@ -4,7 +4,7 @@
 
 //!t ReactorComms.cpp
 //!a Dan Oates (Team 7, Class of 2020)
-//!et
+
 #include "ReactorComms.h"
 
 //**************************************************************/

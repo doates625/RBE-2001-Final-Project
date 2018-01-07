@@ -10,7 +10,6 @@
 //!d module through any hardware serial port available on
 //!d any Arduino. The serial port is specified on object
 //!d construction.
-//!et
 
 #pragma once
 #include "Arduino.h"
