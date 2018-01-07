@@ -10,7 +10,7 @@ It should be noted that my other team members didn't finish their report section
 
 2. The "Field Navigation" and "State Machine Design" sections should not have been sub-sections of "Control Systems", rather their own sections.
 
-SECTIONS
+MY SECTIONS
 
 Below are the sections I contributed. The names are as they appear in the body (not the TOC, as discussed above).
 
