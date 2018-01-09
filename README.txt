@@ -2,6 +2,11 @@ INTRODUCTION
 
 This repo contains the C++ code and report for my RBE-2001 final project at WPI. As part of a group of 4, I helped design a robot which navigates a small model nuclear power plant and refuels reactors from storage and supply depots using information given over Bluetooth. While I participated in most of the design process, my focus in the group was software design. I wrote 100% of the project-specific software for the robot, which included state machine design, sensor interfacing, and multilayered PID control systems.
 
+DEMONSTRATION
+
+Here is a video of the robot in action:
+https://drive.google.com/file/d/0B06-5i9S3W0DZTVDc2tYWl9TYnM/view
+
 ORGANIZATION
 
 This repo is divided into two folders:
