@@ -5,7 +5,7 @@ This repo contains the C++ code and report for my RBE-2001 final project at WPI.
 DEMONSTRATION
 
 Here is a video of the robot in action:
-https://drive.google.com/file/d/0B06-5i9S3W0DZTVDc2tYWl9TYnM/view
+https://youtu.be/gLQ0yUHudrY
 
 ORGANIZATION
 
